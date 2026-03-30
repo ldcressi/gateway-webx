@@ -475,5 +475,4 @@ página</button>
   } 
  
   window.openPaymentGateway = openGateway; 
-})(); 
-</script>
+})();
