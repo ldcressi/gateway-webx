@@ -1,5 +1,5 @@
 const GW_CONFIG = { 
-  backendUrl: 'https://www.latamgsm.online/payment-gateway', 
+  backendUrl: '', 
   usdtWallet: 'TK6MEvpnazSTucKbc2buBWUCC7FSn56uLp', 
 }; 
  
